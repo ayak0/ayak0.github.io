@@ -9,19 +9,6 @@ redirect_from:
 
 Ayako Tsuchiyama is a PhD candidate in Geophysics, Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology. My research focuses on seismology, including deep earthquakes and deformation processes in subduction zones, as well as planetary seismology applications to the Moon and Titan. I am expected to graduate in spring 2027 and am actively seeking postdoctoral positions.
 
-Main project: Deep earthquakes in subduction zones
-------
-I have been working on the mechanisms of deep earthquakes (depth > 70 km) since starting graduate school. My first paper investigates the source mechanisms of deep-focus earthquakes in central Japan, showing nearly identical waveforms and focal mechanism solutions despite differences in source parameters. These results suggest that different mechanisms of deep earthquakes can coexist at the same depth. This work was published in Physics of the Earth and Planetary Interiors as [Tsuchiyama and Nakajima, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0031920121000534).
-
-I began my PhD at MIT, where I started working on the Bucaramanga Nest in Colombia. I transitioned from Japanese to English for research and from Fortran to Python and MATLAB for programming. My work includes constructing a six-year earthquake catalog using matched-filter detection, relocating events using GrowClust and HypoDD, and developing a method to resolve kilometer-scale spatial variations in deep earthquakes using teleseismic observations. I also proposed a self-sustaining stress transfer mechanism driven by thermal shear instability. The manuscript was submitted in September 2025 and revised based on two constructive reviews. 
-
-Other project 1: Low-frequency earthquakes in continental crust
-------
-I have also worked on identifying low-frequency earthquakes in the shallow crust. My second paper analyzes the seismic spectra of aftershocks in the 2019 Ridgecrest sequence and identifies low-frequency aftershocks (LFAs) using amplitude ratios between low- and high-frequency bands. The results suggest that LFAs are associated with highly fractured fault zones and local heterogeneity, likely related to cross-faulting induced by the aftershock sequence at shallow depths. These observations imply that elevated pore-fluid pressure in fractured fault zones may contribute to the band-limited nature of LFAs and LFEs. This work was published in the Bulletin of the Seismological Society of America [Tsuchiyama et al., 2022](https://pubs.geoscienceworld.org/ssa/bssa/article/112/2/750/610613/Emergence-of-Low-Frequency-Aftershocks-of-the-2019?guestAccessKey=)
-
-Other project 2: Delta deposition under sea-level cycles of Titan
-------
-
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
