@@ -9,12 +9,13 @@ redirect_from:
 
 Ayako Tsuchiyama is a PhD candidate in Geophysics, Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology. My research focuses on seismology, including deep earthquakes and deformation processes in subduction zones, as well as planetary seismology applications to the Moon and Titan. I am expected to graduate in spring 2027 and am actively seeking postdoctoral positions.
 
-Main project(s): Deep earthquakes
+Main project: Deep earthquakes
 ======
 I have been working on the mechanisms of deep earthquakes (depth > 70 km) since starting graduate school. My first paper investigates the source mechanisms of deep-focus earthquakes in central Japan, showing nearly identical waveforms and focal mechanism solutions despite differences in source parameters. These results suggest that different mechanisms of deep earthquakes can coexist at the same depth. This work was published in Physics of the Earth and Planetary Interiors as [Tsuchiyama and Nakajima, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0031920121000534).
 
+After completing my master's degree at the Tokyo Institute of Technology, I began my PhD at MIT, where I started working on the Bucaramanga Nest in Colombia. I transitioned from Japanese to English for research and from Fortran to Python and MATLAB for programming. My work includes constructing a six-year earthquake catalog using matched-filter detection, relocating events using GrowClust and HypoDD, and developing a method to resolve kilometer-scale spatial variations in deep earthquakes using teleseismic observations. I also proposed a self-sustaining stress transfer mechanism driven by thermal shear instability. The manuscript was submitted in September 2025 and revised based on two constructive reviews. 
 
-Getting started
+Other project: 
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
