@@ -11,6 +11,7 @@ Ayako Tsuchiyama is a PhD candidate in Geophysics, Department of Earth, Atmosphe
 
 Outside of research, I enjoy Japanese archery, photography, knitting, embroidery, running, and dancing. I was fortunate to be selected for MIT's glassblowing class through a lottery system and took arts classes in photo editing and wheel throwing pottery.
 <p align="center">
-  <img src="/images/embroidery.png" style="width:30%; height:220px; object-fit:cover; margin:5px; border-radius:6px;">
+  <img src="/images/butterfly.jpg" style="width:30%; height:220px; object-fit:cover; margin:5px; border-radius:6px;">
   <img src="/images/glass_arts.jpg" style="width:30%; height:220px; object-fit:cover; margin:5px; border-radius:6px;">
+  <img src="/images/embroidery.png" style="width:30%; height:220px; object-fit:cover; margin:5px; border-radius:6px;">
 </p>
