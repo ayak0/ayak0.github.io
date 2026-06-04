@@ -44,17 +44,19 @@ Grants & Scholarship & Fellowship
 * Japan Study Abroad Program, Japan Student Services Organization ($13,661) (August 2019 – March 2020 at UC Berkeley)
   
 Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+------
+* The 7th slow-to-fast earthquake seminar, Earthquake Research Institute, University of Tokyo, Japan (August 2025)
+* Servicio Geológico Colombiano (SGC) seminar, Bogotá, Colombia (August 2024)
+* SOLIST seminar, Tsukuba (February 2022, invited) 
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Teaching Assistant
+------
+* 12.002 Introduction to Geophysics and Planetary Sciences (Spring 2026, MIT EAPS)
+* 12.210 Introduction to Seismology (Fall 2024, MIT EAPS)
+* Earth and Space Sciences, Laboratory and Field Studies (earth materials) (Fall 2020, Tokyo Tech)
+* Physical Mathematics (Spring 2019, Tokyo Tech)
   
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+* XPLANE Podcast / SoP mentor (2021 - 2024)
+* Boston Japanese Researcher Forum (October 2021 - May 2023)
