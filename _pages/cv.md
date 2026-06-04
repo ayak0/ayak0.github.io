@@ -35,6 +35,7 @@ Awards
 
 Grants & Scholarship & Fellowship
 ------
+* MIT EAPS Deparmtent Fellowship (2022 - 2025)
 * Student Travel Grant for International Slow-to-Fast earthquakes workshop (September 2022)
 * International Student Travel Grant for JpGU 2022, Japan Geoscience Union (May 2022)
 * Student Travel Grant for SSA 2022, Seismological Society of America (April 2022)
