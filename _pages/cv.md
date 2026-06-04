@@ -31,21 +31,14 @@ Awards
 
 Grants & Scholarship & Fellowship
 ------
-Student Travel Grant for International Slow-to-Fast earthquakes workshop (September 2022)
-
-International Student Travel Grant for JpGU 2022, Japan Geoscience Union (May 2022)
-
-Student Travel Grant for SSA 2022, Seismological Society of America (April 2022)
-
-Takenaka Foundation Scholarship (September 2021 – August 2026)
-
-The Sasakawa Scientific Research Grant, the Japan Science Society (April 2021 – March 2022)
-
-Young Scientist Travel Support, Science of Slow Earthquake (August 2019 – March 2020)
-
-Japan Study Abroad Program, Japan Student Services Organization ($13,661) (August 2019 – March 2020)
-
-Stockholm International Youth Science Seminar, Japan Prize Foundation (December 2018)
+* Student Travel Grant for International Slow-to-Fast earthquakes workshop (September 2022)
+* International Student Travel Grant for JpGU 2022, Japan Geoscience Union (May 2022)
+* Student Travel Grant for SSA 2022, Seismological Society of America (April 2022)
+* Takenaka Foundation Scholarship (September 2021 – August 2026)
+* The Sasakawa Scientific Research Grant, the Japan Science Society (April 2021 – March 2022)
+* Young Scientist Travel Support, Science of Slow Earthquake (August 2019 – March 2020)
+* Japan Study Abroad Program, Japan Student Services Organization ($13,661) (August 2019 – March 2020)
+* Stockholm International Youth Science Seminar, Japan Prize Foundation (December 2018)
   
 Talks
 ======
