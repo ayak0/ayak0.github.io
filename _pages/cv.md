@@ -21,9 +21,9 @@ Publications
 
 [3]. A. Tsuchiyama, W. B. Frank, G. A. Prieto, Deep Earthquakes sweep through the Bucaramanga Nest (in revision.)
 
-[2]. A. Tsuchiyama, T. Taira, J. Nakajima, & R. Bürgmann, (2022). Emergence of Low‐Frequency Aftershocks of the 2019 Ridgecrest Earthquake Sequence. Bulletin of the Seismological Society of America. https://doi.org/10.1785/0120210206 
+[2]. A. Tsuchiyama, T. Taira, J. Nakajima, & R. Bürgmann, (2022). Emergence of Low‐Frequency Aftershocks of the 2019 Ridgecrest Earthquake Sequence. Bulletin of the Seismological Society of America. [LINK](https://doi.org/10.1785/0120210206) 
 
-[1]. A. Tsuchiyama and J. Nakajima, “Diversity of deep earthquakes with waveform similarity,” Physics of the Earth and Planetary Interiors, 314, 106695 (2021). https://doi.org/10.1016/j.pepi.2021.106695
+[1]. A. Tsuchiyama and J. Nakajima, “Diversity of deep earthquakes with waveform similarity,” Physics of the Earth and Planetary Interiors, 314, 106695 (2021). [LINK](https://doi.org/10.1016/j.pepi.2021.106695)
   
 Awards
 ------
