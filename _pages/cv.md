@@ -59,5 +59,6 @@ Teaching Assistant
   
 Service and leadership
 ------
+* Chair of Graduate Student Advisory Group (GSAG) at MIT EAPS (2025-2026)
 * XPLANE Podcast / SoP mentor (2021 - 2024)
 * Boston Japanese Researcher Forum (October 2021 - May 2023)
