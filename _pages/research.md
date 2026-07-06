@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 author_profile: true
 ---
-**I have worked on four first-author research projects: two published, one under revision, and one in preparation (as of June 2026).** My primary research focus is on deep earthquakes and deformation processes in subduction zones. I have also worked on low-frequency earthquakes in California as a visiting research student at UC Berkeley, and on delta deposition on Titan as a secondary research project at MIT EAPS.
+**I have worked on four first-author research projects: two published, one under review, and one in preparation (as of June 2026).** My primary research focus is on deep earthquakes and deformation processes in subduction zones. I have also worked on low-frequency earthquakes in California as a visiting research student at UC Berkeley, and on delta deposition on Titan as a secondary research project at MIT EAPS.
 
 Main project(s): Deep earthquakes in subduction zones
 ------
