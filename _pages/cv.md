@@ -17,9 +17,9 @@ Education
 
 Publications
 ------
-[4]. A. Tsuchiyama, S. P. D. Birch, J. Lorenzo-Trueba, A. D. Ashton, J. Soderblom, J. T. Perron, Delta deposition and sea-level change on Titan (in prep.)
+[4]. A. Tsuchiyama, J. Lorenzo-Trueba, S. P. D. Birch, J. Soderblom, A. D. Ashton, J. T. Perron, River delta deposition and sea-level change on Titan (submitted)
 
-[3]. A. Tsuchiyama, W. B. Frank, G. A. Prieto, Deep Earthquakes sweep through the Bucaramanga Nest (in revision.)
+[3]. A. Tsuchiyama, W. B. Frank, G. A. Prieto, Deep Earthquakes sweep through the Bucaramanga Nest (revision submitted)
 
 [2]. A. Tsuchiyama, T. Taira, J. Nakajima, & R. Bürgmann, (2022). Emergence of Low‐Frequency Aftershocks of the 2019 Ridgecrest Earthquake Sequence. Bulletin of the Seismological Society of America. [LINK](https://doi.org/10.1785/0120210206) 
 
