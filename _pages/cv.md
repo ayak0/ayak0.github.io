@@ -17,9 +17,11 @@ Education
 
 Publications
 ------
+[5]. A. Tsuchiyama, W. B. Frank, G. A. Prieto, Transient behaviors of intermediate-depth earthquakes within the Bucaramanga Nest, Colombia (in prep.)
+
 [4]. A. Tsuchiyama, J. Lorenzo-Trueba, S. P. D. Birch, J. Soderblom, A. D. Ashton, J. T. Perron, River delta deposition and sea-level change on Titan (in review)
 
-[3]. A. Tsuchiyama, W. B. Frank, G. A. Prieto, Deep Earthquakes sweep through the Bucaramanga Nest (Accepted)
+[3]. A. Tsuchiyama, W. B. Frank, G. A. Prieto, Deep Earthquakes sweep through the Bucaramanga Nest. Science Advances (in press).
 
 [2]. A. Tsuchiyama, T. Taira, J. Nakajima, & R. Bürgmann, (2022). Emergence of Low‐Frequency Aftershocks of the 2019 Ridgecrest Earthquake Sequence. Bulletin of the Seismological Society of America. [LINK](https://doi.org/10.1785/0120210206) 
 
